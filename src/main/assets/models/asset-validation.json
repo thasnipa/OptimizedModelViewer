@@ -1,0 +1,377 @@
+[
+  {
+    "source": "Bulb.glb",
+    "output": "bulb.glb",
+    "bytes": 788640,
+    "labels": [
+      {
+        "text": "Filament",
+        "world": [
+          -0.06862369924783707,
+          0.5364844799041748,
+          0.07648911327123642
+        ]
+      },
+      {
+        "text": "Glass Bulb",
+        "world": [
+          0.2004028856754303,
+          0.8318861722946167,
+          0.0764891505241394
+        ]
+      },
+      {
+        "text": "Support Wires",
+        "world": [
+          0.05795683711767197,
+          0.3874831795692444,
+          0.008354566991329193
+        ]
+      },
+      {
+        "text": "Glass Mount",
+        "world": [
+          0.0007190853357315063,
+          0.24332886934280396,
+          0.008354547433555126
+        ]
+      },
+      {
+        "text": "Metal Base",
+        "world": [
+          0.13638299703598022,
+          -0.01930209808051586,
+          -0.02398907206952572
+        ]
+      },
+      {
+        "text": "Insulator",
+        "world": [
+          -0.007352249696850777,
+          -0.18031243979930878,
+          -0.008218709379434586
+        ]
+      }
+    ],
+    "validatorErrors": 0,
+    "validatorWarnings": 2,
+    "warnings": [
+      {
+        "code": "MESH_PRIMITIVE_GENERATED_TANGENT_SPACE",
+        "message": "Material requires a tangent space but the mesh primitive does not provide it. Runtime-generated tangent space may be non-portable across implementations.",
+        "severity": 1,
+        "pointer": "/meshes/0/primitives/0/material"
+      },
+      {
+        "code": "MESH_PRIMITIVE_GENERATED_TANGENT_SPACE",
+        "message": "Material requires a tangent space but the mesh primitive does not provide it. Runtime-generated tangent space may be non-portable across implementations.",
+        "severity": 1,
+        "pointer": "/meshes/1/primitives/0/material"
+      }
+    ]
+  },
+  {
+    "source": "Fiagena.glb",
+    "output": "Fiagena.glb",
+    "bytes": 1837040,
+    "labels": [
+      {
+        "text": "Hook",
+        "world": [
+          -0.2932758927345276,
+          0.35811781883239746,
+          -0.008652351796627045
+        ]
+      },
+      {
+        "text": "Hook Filament junction",
+        "world": [
+          -0.3618573546409607,
+          0.4350402355194092,
+          -0.008652341552078724
+        ]
+      },
+      {
+        "text": "L ring",
+        "world": [
+          -0.19781793653964996,
+          0.22744233906269073,
+          -0.008652369491755962
+        ]
+      },
+      {
+        "text": "P ring",
+        "world": [
+          -0.19781793653964996,
+          0.1634947806596756,
+          -0.008652369491755962
+        ]
+      },
+      {
+        "text": "MS ring",
+        "world": [
+          -0.19781793653964996,
+          0.10140077024698257,
+          -0.008652369491755962
+        ]
+      },
+      {
+        "text": "filament",
+        "world": [
+          0.18772099912166595,
+          0.1533002257347107,
+          -0.008652331307530403
+        ]
+      },
+      {
+        "text": "Helical structure",
+        "world": [
+          0.18772099912166595,
+          0.2904631495475769,
+          -0.008652331307530403
+        ]
+      }
+    ],
+    "validatorErrors": 0,
+    "validatorWarnings": 0,
+    "warnings": []
+  },
+  {
+    "source": "Lungs.glb",
+    "output": "Lungs.glb",
+    "bytes": 886372,
+    "labels": [
+      {
+        "text": "Larynx",
+        "world": [
+          -0.009632015600800514,
+          0.19803205132484436,
+          0.061096131801605225
+        ]
+      },
+      {
+        "text": "Trachea",
+        "world": [
+          -0.009632015600800514,
+          0.13225403428077698,
+          0.015397720038890839
+        ]
+      },
+      {
+        "text": "Main bronchus",
+        "world": [
+          0.02844999171793461,
+          0.03670283406972885,
+          -0.00763457827270031
+        ]
+      },
+      {
+        "text": "Bronchial tree",
+        "world": [
+          0.09492039680480957,
+          -0.03392196446657181,
+          0.024493012577295303
+        ]
+      },
+      {
+        "text": "Lung",
+        "world": [
+          -0.1314944326877594,
+          0.023547235876321793,
+          0.024493012577295303
+        ]
+      }
+    ],
+    "validatorErrors": 0,
+    "validatorWarnings": 0,
+    "warnings": []
+  },
+  {
+    "source": "Microscope.glb",
+    "output": "Microscope.glb",
+    "bytes": 2944968,
+    "labels": [
+      {
+        "text": "Eyepiece",
+        "world": [
+          0.035297732800245285,
+          0.34810465574264526,
+          0.001674514263868332
+        ]
+      },
+      {
+        "text": "Body Tube",
+        "world": [
+          0.035297732800245285,
+          0.25756654143333435,
+          0.001674514263868332
+        ]
+      },
+      {
+        "text": "Revolving Nosepiece",
+        "world": [
+          0.08314307779073715,
+          0.22002635896205902,
+          0.001674514263868332
+        ]
+      },
+      {
+        "text": "Objective Lenses",
+        "world": [
+          0.08314307779073715,
+          0.1758614331483841,
+          0.001674514263868332
+        ]
+      },
+      {
+        "text": "Stage",
+        "world": [
+          0.08314307779073715,
+          0.13390475511550903,
+          0.001674514263868332
+        ]
+      },
+      {
+        "text": "Diaphragm",
+        "world": [
+          0.06253276765346527,
+          0.12139135599136353,
+          0.0016745118191465735
+        ]
+      },
+      {
+        "text": "Illuminator",
+        "world": [
+          0.037505969405174255,
+          0.050727471709251404,
+          0.0016745118191465735
+        ]
+      },
+      {
+        "text": "Base",
+        "world": [
+          -0.10087749361991882,
+          0.01097903773188591,
+          0.0016745118191465735
+        ]
+      },
+      {
+        "text": "Stage Clip",
+        "world": [
+          -0.014755867421627045,
+          0.1427377462387085,
+          0.039183009415864944
+        ]
+      },
+      {
+        "text": "Arm",
+        "world": [
+          -0.10087749361991882,
+          0.17097465693950653,
+          0.0016745118191465735
+        ]
+      },
+      {
+        "text": "Fine Adjustment Knob",
+        "world": [
+          -0.025224601849913597,
+          0.2241361439228058,
+          0.04057099670171738
+        ]
+      },
+      {
+        "text": "Coarse Adjustment Knob",
+        "world": [
+          -0.002222033217549324,
+          0.2808758020401001,
+          0.04057099670171738
+        ]
+      }
+    ],
+    "validatorErrors": 0,
+    "validatorWarnings": 0,
+    "warnings": []
+  },
+  {
+    "source": "solarsystem.glb",
+    "output": "solarsystem.glb",
+    "bytes": 316416,
+    "labels": [
+      {
+        "text": "Mercury",
+        "world": [
+          1.1942982604770265,
+          -0.014044901644574281,
+          0.004313319995835507
+        ]
+      },
+      {
+        "text": "venus",
+        "world": [
+          1.5529177994110555,
+          0.028989234980511647,
+          -0.01953125124859556
+        ]
+      },
+      {
+        "text": "Earth",
+        "world": [
+          1.9362364846667461,
+          0.006715356353205082,
+          0.18526450284763565
+        ]
+      },
+      {
+        "text": "mars",
+        "world": [
+          2.366997264831298,
+          0.006715357361973706,
+          0.004890203439154167
+        ]
+      },
+      {
+        "text": "Jupiter",
+        "world": [
+          2.9416090068351792,
+          -0.015978217622305002,
+          0.010953665372480992
+        ]
+      },
+      {
+        "text": "Saturn",
+        "world": [
+          -2.15899719268065,
+          -0.00913621548853033,
+          -2.803536872784467
+        ]
+      },
+      {
+        "text": "Uranus",
+        "world": [
+          4.102689013181646,
+          0.012352914073142651,
+          -0.029858112932720227
+        ]
+      },
+      {
+        "text": "Neptune",
+        "world": [
+          -3.4468271640348305,
+          0.018581892526113863,
+          -2.951830679237861
+        ]
+      },
+      {
+        "text": "Sun",
+        "world": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "validatorErrors": 0,
+    "validatorWarnings": 0,
+    "warnings": []
+  }
+]

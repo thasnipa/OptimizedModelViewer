@@ -1,0 +1,381 @@
+[
+  {
+    "name": "Bulb",
+    "before": {
+      "bytes": 2248388,
+      "triangles": 4372,
+      "drawPrimitives": 2,
+      "textureRGBABytes": 20971520,
+      "textureSizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "labels": [
+        "Filament",
+        "Glass Bulb",
+        "Support Wires",
+        "Glass Mount",
+        "Metal Base",
+        "Insulator"
+      ],
+      "animations": 0,
+      "sha256": "0596ee6f1c7d5c6c7298ec9b04957f469ac28623c584f33b4b87da3deccd714a"
+    },
+    "after": {
+      "bytes": 788640,
+      "triangles": 4372,
+      "drawPrimitives": 2,
+      "textureRGBABytes": 5242880,
+      "textureSizes": [
+        [
+          512,
+          512
+        ],
+        [
+          512,
+          512
+        ],
+        [
+          512,
+          512
+        ],
+        [
+          512,
+          512
+        ],
+        [
+          512,
+          512
+        ]
+      ],
+      "labels": [
+        "Filament",
+        "Glass Bulb",
+        "Support Wires",
+        "Glass Mount",
+        "Metal Base",
+        "Insulator"
+      ],
+      "animations": 0,
+      "sha256": "2d25fb053bc51863e3df1ad68a6a31a4b186c82e9d8c21c15460112bbea6c776"
+    }
+  },
+  {
+    "name": "Fiagena",
+    "before": {
+      "bytes": 5402784,
+      "triangles": 148250,
+      "drawPrimitives": 9,
+      "textureRGBABytes": 16777216,
+      "textureSizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "labels": [
+        "Hook",
+        "Hook Filament junction",
+        "L ring",
+        "P ring",
+        "MS ring",
+        "filament",
+        "Helical structure"
+      ],
+      "animations": 10,
+      "sha256": "88e731be3a66e717f3e076c49f78210a080e68cce36acadb5f5c33677b0f37f3"
+    },
+    "after": {
+      "bytes": 1837040,
+      "triangles": 43424,
+      "drawPrimitives": 9,
+      "textureRGBABytes": 4194304,
+      "textureSizes": [
+        [
+          512,
+          512
+        ],
+        [
+          512,
+          512
+        ],
+        [
+          512,
+          512
+        ],
+        [
+          512,
+          512
+        ]
+      ],
+      "labels": [
+        "Hook",
+        "Hook Filament junction",
+        "L ring",
+        "P ring",
+        "MS ring",
+        "filament",
+        "Helical structure"
+      ],
+      "animations": 10,
+      "sha256": "7e55a3c6af47a7571bc01586c79be726af0be9971962b3e4bf10eb25daa3bf27"
+    }
+  },
+  {
+    "name": "Lungs",
+    "before": {
+      "bytes": 1929356,
+      "triangles": 27578,
+      "drawPrimitives": 3,
+      "textureRGBABytes": 12582912,
+      "textureSizes": [
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ],
+        [
+          1024,
+          1024
+        ]
+      ],
+      "labels": [
+        "Larynx",
+        "Trachea",
+        "Main bronchus",
+        "Bronchial tree",
+        "Lung"
+      ],
+      "animations": 0,
+      "sha256": "c1f172dd40159d8db08f94109ac2d4efe15d918bd6ce199968b30f571ec6fd08"
+    },
+    "after": {
+      "bytes": 886372,
+      "triangles": 27578,
+      "drawPrimitives": 3,
+      "textureRGBABytes": 3145728,
+      "textureSizes": [
+        [
+          512,
+          512
+        ],
+        [
+          512,
+          512
+        ],
+        [
+          512,
+          512
+        ]
+      ],
+      "labels": [
+        "Larynx",
+        "Trachea",
+        "Main bronchus",
+        "Bronchial tree",
+        "Lung"
+      ],
+      "animations": 0,
+      "sha256": "3a150e4f4f23f7b715b1dec4a9fa36cd2b0a11a51af40cd9b9658aaaded05ef2"
+    }
+  },
+  {
+    "name": "Microscope",
+    "before": {
+      "bytes": 1688908,
+      "triangles": 43863,
+      "drawPrimitives": 123,
+      "textureRGBABytes": 0,
+      "textureSizes": [],
+      "labels": [
+        "Eyepiece",
+        "Body Tube",
+        "Revolving Nosepiece",
+        "Objective Lenses",
+        "Stage",
+        "Diaphragm",
+        "Illuminator",
+        "Base",
+        "Stage Clip",
+        "Arm",
+        "Fine Adjustment Knob",
+        "Coarse Adjustment Knob"
+      ],
+      "animations": 0,
+      "sha256": "64460b7341c56aa326c8f4b17836f3a4471264c556f5b007fd16a354c43747d5"
+    },
+    "after": {
+      "bytes": 2944968,
+      "triangles": 43863,
+      "drawPrimitives": 21,
+      "textureRGBABytes": 0,
+      "textureSizes": [],
+      "labels": [
+        "Eyepiece",
+        "Body Tube",
+        "Revolving Nosepiece",
+        "Objective Lenses",
+        "Stage",
+        "Diaphragm",
+        "Illuminator",
+        "Base",
+        "Stage Clip",
+        "Arm",
+        "Fine Adjustment Knob",
+        "Coarse Adjustment Knob"
+      ],
+      "animations": 0,
+      "sha256": "a841f248b9043f41fa7b614d015dfc779b50d965080827ec11556bc6e760a940"
+    }
+  },
+  {
+    "name": "solarsystem",
+    "before": {
+      "bytes": 5918184,
+      "triangles": 19800,
+      "drawPrimitives": 26,
+      "textureRGBABytes": 69861376,
+      "textureSizes": [
+        [
+          2048,
+          1024
+        ],
+        [
+          4096,
+          2048
+        ],
+        [
+          256,
+          256
+        ],
+        [
+          256,
+          128
+        ],
+        [
+          2048,
+          1024
+        ],
+        [
+          1024,
+          512
+        ],
+        [
+          256,
+          256
+        ],
+        [
+          2048,
+          1024
+        ],
+        [
+          2048,
+          1024
+        ]
+      ],
+      "labels": [
+        "Mercury",
+        "venus",
+        "Earth",
+        "mars",
+        "Jupiter",
+        "Saturn",
+        "Uranus",
+        "Neptune",
+        "Bronchial tree"
+      ],
+      "animations": 0,
+      "sha256": "22302c431a670b07cbc135109a7821c614fb7400cfda284ffefde68376a87add"
+    },
+    "after": {
+      "bytes": 316416,
+      "triangles": 19800,
+      "drawPrimitives": 26,
+      "textureRGBABytes": 3801088,
+      "textureSizes": [
+        [
+          512,
+          256
+        ],
+        [
+          512,
+          256
+        ],
+        [
+          256,
+          256
+        ],
+        [
+          256,
+          128
+        ],
+        [
+          512,
+          256
+        ],
+        [
+          512,
+          256
+        ],
+        [
+          256,
+          256
+        ],
+        [
+          512,
+          256
+        ],
+        [
+          512,
+          256
+        ]
+      ],
+      "labels": [
+        "Mercury",
+        "venus",
+        "Earth",
+        "mars",
+        "Jupiter",
+        "Saturn",
+        "Uranus",
+        "Neptune",
+        "Sun"
+      ],
+      "animations": 0,
+      "sha256": "3bbf59ee78a2158ef4b685822f33574ed794b36bab617ab17656647f62e9d889"
+    }
+  }
+]
